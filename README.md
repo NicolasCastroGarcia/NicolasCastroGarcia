@@ -22,6 +22,7 @@ Mi nombre es **Nicolás Castro Garcia**. Me gusta definirme como un obrero digit
 - Amo los animales, cuento una breve historia del amor de mi vida [acá](https://aida.vercel.app/)🐾
 - Estudié chino, japonés, y coreano, sé un poco de todos, no domino ninguno
 - Me encanta leer, La Montaña Mágica de Thomas Mann es mi libro preferido 📚
+- Mi película preferida es Groundhog Day, seguida muy de cerca por The Princess Bride
 - Team verano 
 
 
