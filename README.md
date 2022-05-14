@@ -1,16 +1,30 @@
-### Hi there 👋
+### Hola 👋
 
-<!--
-**NicolasCastroGarcia/NicolasCastroGarcia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mi nombre es **Nicolás Castro Garcia**. Me gusta definirme como un obrero digital 👷‍♂️
 
-Here are some ideas to get you started:
+- Empecé a programar en Junio de 2019!
+- En Agosto de 2020 asumí el rol de CTO en [CourseIt](https://courseit.io), una plataforma educativa (y el mejor lugar para aprender MERN😉)
+- En Septiembre de 2021 comencé a trabajar en [Exact.ly](https://exact.ly)
+- En Abril de 2022 asumí el rol de front end lead en [Exact.ly](https://exact.ly)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Stack
+
+- Typescript
+- Next.js
+- Express
+- MongoDB
+
+## Datos Curiosos
+
+- Juego al tenis de mesa, entrené durante un tiempo 🏓
+- Mido 1,70 y soy mas flaco de lo que te podés imaginar
+- Amo los animales, cuento una breve historia del amor de mi vida [acá](https://aida.vercel.app/)🐾
+- Estudié chino, japonés, y coreano, sé un poco de todos, no domino ninguno
+- Me encanta leer, La Montaña Mágica de Thomas Mann es mi libro preferido 📚
+- Team verano 
+
+
+Si te interesa hablar conmigo podes hacerlo a través de [instagram](https://www.instagram.com/ncastrogarcia/). Ah pará! esto no es Tinder, ni Bumble, ni OkCupid, my bad, te dejo mi [twitter](https://twitter.com/ncastrogarcia) que seguro ahí contesto. Pero si tu interés no es salir conmigo a tomar algo o a jugar al tenis de mesa, podes contactarme por [linkedin](https://www.linkedin.com/in/nicolas-castro-garcia/)
+
+Porque nunca está demás decirlo, que tengas lindo día 🐳
