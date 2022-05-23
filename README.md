@@ -28,4 +28,4 @@ Mi nombre es **Nicolás Castro Garcia**. Me gusta definirme como un obrero digit
 
 Si te interesa hablar conmigo podes hacerlo a través de [instagram](https://www.instagram.com/ncastrogarcia/). Ah pará! esto no es Tinder, ni Bumble, ni OkCupid, my bad, te dejo mi [twitter](https://twitter.com/ncastrogarcia) que seguro ahí contesto. Pero si tu interés no es salir conmigo a tomar algo o a jugar al tenis de mesa, podes contactarme por [linkedin](https://www.linkedin.com/in/nicolas-castro-garcia/)
 
-Porque nunca está demás decirlo, que tengas lindo día 🐳
+Porque nunca está de más decirlo, que tengas lindo día 🐳
