@@ -15,6 +15,8 @@ Mi nombre es **Nicolás Castro Garcia**. Me gusta definirme como un obrero digit
 - Next.js
 - Express
 - MongoDB
+- Web3 Development
+- The Graph
 
 ## Datos Curiosos
 
