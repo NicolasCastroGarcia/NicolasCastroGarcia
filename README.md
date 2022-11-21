@@ -29,6 +29,6 @@ Mi nombre es **Nicolás Castro Garcia**. Me gusta definirme como un obrero digit
 - Team verano 
 
 
-Si te interesa hablar conmigo podes hacerlo a través de [instagram](https://www.instagram.com/ncastrogarcia/). Ah pará! esto no es Tinder, ni Bumble, ni OkCupid, my bad, te dejo mi [twitter](https://twitter.com/ncastrogarcia) que seguro ahí contesto. Pero si tu interés no es salir conmigo a jugar al tenis de mesa, podes contactarme por [linkedin](https://www.linkedin.com/in/nicolas-castro-garcia/)
+Si te interesa hablar conmigo podes hacerlo a través de [twitter](https://twitter.com/ncastrogarcia) que seguro ahí contesto. Pero si tu interés no es ir a jugar al tenis de mesa, podes contactarme por [linkedin](https://www.linkedin.com/in/nicolas-castro-garcia/)
 
 Porque nunca está de más decirlo, que tengas lindo día 🐳
