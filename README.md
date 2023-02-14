@@ -22,7 +22,6 @@ Mi nombre es **Nicolás Castro Garcia**. Me gusta definirme como un obrero digit
 ## Datos Curiosos
 
 - Juego al tenis de mesa, entrené durante un tiempo 🏓
-- Mido 1,70 y soy mas flaco de lo que te podés imaginar
 - Amo los animales, cuento una breve historia del amor de mi vida [acá](https://aida.vercel.app/)🐾
 - Estudié chino, japonés, y coreano, sé un poco de todos, no domino ninguno
 - Me encanta leer, La Montaña Mágica de Thomas Mann es mi libro preferido 📚
