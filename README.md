@@ -6,7 +6,6 @@ Mi nombre es **Nicolás Castro Garcia**. Me gusta definirme como un obrero digit
 - En Agosto de 2020 asumí el rol de CTO en [CourseIt](https://courseit.io), una plataforma educativa (y el mejor lugar para aprender MERN😉)
 - En Septiembre de 2021 comencé a trabajar en [Exact.ly](https://exact.ly)
 - En Abril de 2022 asumí el rol de front end lead en [Exact.ly](https://exact.ly)
-- En Octubre de 2022 dejé Exactly
 - Actualmente trabajo en [FundIt](https://fundit.finance) una plataforma de crowdfunding con criptomonedas
 
 
