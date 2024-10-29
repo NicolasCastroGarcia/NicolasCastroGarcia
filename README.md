@@ -1,6 +1,6 @@
 ### Hola 👋
 
-Mi nombre es **Nicolás Castro Garcia**. Me gusta definirme como un obrero digital 👷‍♂️
+Mi nombre es **Nicolás Castro Garcia**
 
 - Empecé a programar en Junio de 2019!
 - En Agosto de 2020 asumí el rol de CTO en CourseIt, una plataforma educativa
