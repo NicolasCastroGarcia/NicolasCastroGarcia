@@ -23,7 +23,6 @@ Mi nombre es **Nicolás Castro Garcia**
 - Amo los animales, cuento una breve historia del amor de mi vida [acá](https://aida.vercel.app/)🐾
 - Me encanta leer, La Montaña Mágica de Thomas Mann es mi libro preferido 📚
 - Mi película preferida es Groundhog Day, seguida muy de cerca por The Princess Bride
-- Team verano 
 
 Si te interesa hablar conmigo podes hacerlo a través de [twitter](https://twitter.com/ncastrogarcia) que seguro ahí contesto. Pero si tu interés no es ir a jugar al tenis de mesa, podes contactarme por [linkedin](https://www.linkedin.com/in/nicolas-castro-garcia/)
 
