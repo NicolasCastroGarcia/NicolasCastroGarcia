@@ -14,7 +14,7 @@ Mi nombre es **Nicolás Castro Garcia**
 - Next.js
 - Express
 - MongoDB
-- Web3 Development
+- EthersJs
 - The Graph
 
 ## Intereses y Gustos:
