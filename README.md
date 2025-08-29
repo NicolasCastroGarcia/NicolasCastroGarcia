@@ -6,7 +6,7 @@ Mi nombre es **Nicolás Castro Garcia**
 - En Agosto de 2020 asumí el rol de CTO en CourseIt, una plataforma educativa
 - En Septiembre de 2021 comencé a trabajar en [Exact.ly](https://exact.ly)
 - En Abril de 2022 asumí el rol de front end lead en [Exact.ly](https://exact.ly)
-- Actualmente trabajo en [Amplify](https://getamplify.app), procesador de pagos cripto
+- Actualmente trabajo en [Amplify](https://getamplify.app), un procesador de pagos cripto, y en [Galio Proof](https://proof.galio.app/), un servicio de verificación de identidad (KYC) para usuarios y empresas.
 
 ## Stack
 
